@@ -62,8 +62,8 @@ This is a complete log of my software development skills, learning, interests, a
 | Completed!  | Aug 2017 | Learning Git and GitHub                      | Ray Villalobos - Lynda.com |
 | Completed!  | Aug 2017 | Dissecting Ruby on Rails                     |   Jordan Hudgens - Udemy   |
 | Completed!  | Jul 2017 | The Web Developer Bootcamp - Frond End       |    Colt Steele - Udemy     |
-| Completed!  | 2016     | Full Stack JavaScript                        |         Treehouse          |
-| Completed!  | 2016     | Front End Web Development                    |         Treehouse          |
+| Completed!  | Oct 2016 | Full Stack JavaScript                        |         Treehouse          |
+| Completed!  | Jul 2016 | Front End Web Development                    |         Treehouse          |
 
 ---
 
@@ -72,5 +72,6 @@ This is a complete log of my software development skills, learning, interests, a
 I'm currently interested in/excited about:
 
 - React
-- JavaScript best practice
-- Object Oriented Programming
+- JavaScript
+- Python
+- SQL
