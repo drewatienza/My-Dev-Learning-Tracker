@@ -17,7 +17,6 @@ This is a complete log of my software development skills, learning, interests, a
 | **JavaScript**   |   ![done][done]   |    ![done][done]    |  ![done][done]   |
 | **React**        |   ![done][done]   |    ![done][done]    |  ![done][done]   |
 | **Redux**        |   ![done][done]   |    ![done][done]    |                  |
-| **Backbone**     |   ![done][done]   |    ![done][done]    |  ![done][done]   |
 | **Git**          |   ![done][done]   |    ![done][done]    |  ![done][done]   |
 | **Git bash**     |   ![done][done]   |    ![done][done]    |  ![done][done]   |
 | **GitHub**       |   ![done][done]   |    ![done][done]    |  ![done][done]   |
