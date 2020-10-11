@@ -23,5 +23,3 @@ const maxChar = (str) => {
 
   return maxChar;
 };
-
-module.exports = maxChar;

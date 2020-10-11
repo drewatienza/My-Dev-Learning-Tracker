@@ -34,14 +34,3 @@ function reverse(str) {
 const reverse = (str) => {
   return str.split("").reduce((rev, char) => char + rev, "");
 };
-
-module.exports = reverse;
-
-// DEBUGGER STEPS
-
-// Add a 'debugger' statement in your function
-// Call the function manually
-// At the terminal, run 'node inspect index.js'
-// To continue execution of the file, press 'c' then 'enter'
-// To launch the 'repl' session, type 'repl' then 'enter'
-// To exit the 'repl', prell 'Control' + 'C'

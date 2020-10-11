@@ -52,4 +52,3 @@ const sortString = str => {
   return str.split('').sort().join('');
 }
 
-module.exports = anagrams;
