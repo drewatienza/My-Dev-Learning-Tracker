@@ -37,8 +37,13 @@ This is a complete log of my software development skills, learning, interests, a
 
 |   Status    | Year     | Course                                       |                  Tutor                  |
 | :---------: | :------- | :------------------------------------------- | :-------------------------------------: |
-| in progress | Nov 2020 | Python for Data Science and AI               | Coursera - IBM Data Science Certificate |
-| in progress | Nov 2020 | Data Science Methodology                     | Coursera - IBM Data Science Certificate |
+| coming soon |          | Applied Data Science Capstone                | Coursera - IBM Data Science Certificate |
+| coming soon |          | Machine Learning with Python                 | Coursera - IBM Data Science Certificate |
+| coming soon |          | Data Visualization with Python               | Coursera - IBM Data Science Certificate |
+| coming soon |          | Data Analysis with Python                    | Coursera - IBM Data Science Certificate |
+| coming soon |          | Databases and SQL for Data Science           | Coursera - IBM Data Science Certificate |
+| coming soon |          | Python for Data Science and AI               | Coursera - IBM Data Science Certificate |
+| coming soon |          | Data Science Methodology                     | Coursera - IBM Data Science Certificate |
 | in progress | Nov 2020 | Tools of Data Science                        | Coursera - IBM Data Science Certificate |
 | Completed!  | Nov 2020 | What is Data Science?                        | Coursera - IBM Data Science Certificate |
 | Completed!  | Sep 2020 | Complete SQL + Database Bootcamp             |         Andrei Neagoie - Udemy          |
